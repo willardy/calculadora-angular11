@@ -7,10 +7,30 @@ import {CalculadoraService} from '../services';
   styleUrls: ['./calculadora.component.css']
 })
 export class CalculadoraComponent implements OnInit {
+  display: any;
 
   constructor(private calculadoraService: CalculadoraService) { }
 
   ngOnInit(): void {
   }
 
+  // tslint:disable-next-line:typedef
+  adicionarNumero(s: string) {
+
+  }
+
+  // tslint:disable-next-line:typedef
+  definirOperacao(s: string) {
+
+  }
+
+  // tslint:disable-next-line:typedef
+  calcular() {
+
+  }
+
+  // tslint:disable-next-line:typedef
+  limpar() {
+
+  }
 }
