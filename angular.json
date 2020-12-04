@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "calculadora"
+  "defaultProject": "calculadora",
+  "cli": {
+    "analytics": "0614f400-db84-4f4e-8216-12ff6d8a21d4"
+  }
 }
